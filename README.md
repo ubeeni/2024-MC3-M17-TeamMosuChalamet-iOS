@@ -10,20 +10,28 @@
  ------------ | ------------ | ------------ |
 | <img width="430" src="https://github.com/user-attachments/assets/2ddb08d6-ff42-45dc-a45c-f6a6be04fc12"> | <img width="430" src="https://github.com/user-attachments/assets/31845cf3-6ac0-4151-b071-24dbc4d71403"> | <img width="430" src="https://github.com/user-attachments/assets/cb50f2e7-6bb8-40d5-8b90-5ecf598a17f1"> |
 
-
-## :framed_picture: Demo
-
+</br>
 
 ## :pushpin: Features
 
 - **쇽 보내기(iOS & watchOS)**
+   - **"우리가 서로를 바라보는 방법, 쇽!"**
+     쉽고 빠르게 원하는 친구를 클릭해 쇽을 보내보세요.
+   - 쇽의 장점을 살리기 위해서 꼭 ⌚️워치에서 사용해 보세요. 
+     핸드폰을 사용할 수 없는 환경에서도 쉽고 빠르게 친구가 나를 볼 수 있도록 할 수 있습니다!
+   - 쇽만의 커스텀 진동으로 다른 앱과의 차별성을 느낄 수 있습니다. 
+     누가 나를 부르고 있는지 바로 알아보세요!
 - 푸시 알림(APNs)
-- 친구 추가 - 메세지 & QR (Messages, MessageUI, CoreImage.CIFilterBuiltins)
+   - 푸시 알림으로 '쇽! 날 봐줘!' 누가 날 부르고 있는지 알려줍니다.
+- 친구 추가
+   - 메세지 & QR (Messages, MessageUI, CoreImage.CIFilterBuiltins)
 - 설정
+   - 애플 로그인을 통해 로그인을 하고, 설정한 정보를 내 프로필 수정을 통해 언제든지 수정할 수 있습니다.
+   - 다시 한번 초기 세팅 온보딩을 보고 싶다면, 도움말을 클릭해 보세요.
 
 </br>
 
-## :sparkles: Skills & Tech Stack
+## 👩🏻‍💻 Skills & Tech Stack
 
 <img src="https://img.shields.io/badge/iOS-FFFFFF??style=round-square&logo=Apple&logoColor=black"> <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white">
 
